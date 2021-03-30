@@ -9,7 +9,7 @@ export default function Header(props) {
     }
     return (
         <header>
-            <div class="container">
+            <div className="container">
                 <nav className="navbar navbar-expand-lg navbar-light">
                     <BrandIcon></BrandIcon> 
                 
